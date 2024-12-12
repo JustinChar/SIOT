@@ -1,2 +1,0 @@
-# SIOT
-Focus  Detection Platform
